@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomohiko-ohhashi
-- 👀 I’m interested in nothing.
+- 👀 I’m interested in ML
 - 🌱 I’m currently learning Next.js, Go lang
 - 💞️ I’m looking to collaborate on no one
 - 📫 How to reach me on Twitter @tomohikoohhashi
